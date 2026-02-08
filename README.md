@@ -1,11 +1,12 @@
-## Contributors
-
-- Khushi Gojanur (@Khushi1-1011)
-- Sahil Golatgaonkar (@SahilGkar)
 
 # Scheme-Setu
 
 An AI-powered web application that helps Indian citizens discover government schemes and benefits they are eligible for. Built with React, TypeScript, and Google Gemini AI.
+
+## Contributors
+
+- Khushi Gojanur (@Khushi1-1011)
+- Sahil Golatgaonkar (@SahilGkar)
 
 ## About
 
