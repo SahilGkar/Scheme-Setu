@@ -109,6 +109,10 @@ npm run preview
 |------------------|----------------------------|--------------------|
 | `GEMINI_API_KEY` | Your Google Gemini API key | Yes                |
 
+## Demonstration Video
+
+https://www.loom.com/share/4e440eafe219411894818d6ad8817a76
+
 ## Disclaimer
 
 This application provides information about government schemes for educational purposes. Always verify eligibility and application procedures through official government portals.
