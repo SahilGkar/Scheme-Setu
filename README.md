@@ -105,7 +105,8 @@ npm run preview
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+- Sahil Golatgaonkar
+- Khushi Gojanur (@Khushi1-1011)
 
 ## Disclaimer
 
