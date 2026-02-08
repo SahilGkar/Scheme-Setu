@@ -103,7 +103,7 @@ npm run preview
 |------------------|----------------------------|--------------------|
 | `GEMINI_API_KEY` | Your Google Gemini API key | Yes                |
 
-## Contributing
+## Contributors
 
 - Sahil Golatgaonkar
 - Khushi Gojanur (@Khushi1-1011)
