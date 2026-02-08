@@ -3,14 +3,14 @@
 
 An AI-powered web application that helps Indian citizens discover government schemes and benefits they are eligible for. Built with React, TypeScript, and Google Gemini AI.
 
+## About
+
+Scheme-Setu ("Bridge to Schemes" in Hindi) is a smart government aid matcher that simplifies the process of finding relevant welfare programs. Users provide their demographic and socioeconomic details, and the AI analyzes this information to recommend suitable central and state government schemes.
+
 ## Contributors
 
 - Khushi Gojanur (@Khushi1-1011)
 - Sahil Golatgaonkar (@SahilGkar)
-
-## About
-
-Scheme-Setu ("Bridge to Schemes" in Hindi) is a smart government aid matcher that simplifies the process of finding relevant welfare programs. Users provide their demographic and socioeconomic details, and the AI analyzes this information to recommend suitable central and state government schemes.
 
 ### Key Features
 
